@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: rimjhimweb.me
+Token: cc8ef0c9e0838c5df2992b50150d8f314c60a9954b449937fb60b0da11119433
